@@ -1,0 +1,11 @@
+{
+  "name": "restoran_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --port $PORT"
+  },
+  "author": "",
+  "license": "ISC"
+}
